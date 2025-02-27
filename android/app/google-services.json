@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "513366539683",
+    "project_id": "react-native-firebase-fc3a3",
+    "storage_bucket": "react-native-firebase-fc3a3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513366539683:android:138f1fd82d10346bbdae16",
+        "android_client_info": {
+          "package_name": "com.practice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm5cbBWBgbRl23gEvLlnOg4nFMHxctjAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

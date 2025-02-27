@@ -1,0 +1,59 @@
+# React Native
+# See https://github.com/github/gitignore/blob/main/React.gitignore
+
+# Node.js
+node_modules/
+
+# Android/Gradle
+android/.gradle/
+android/build/
+android/app/build/
+android/app/src/main/assets/index.android.bundle
+
+# iOS
+ios/Pods/
+ios/build/
+ios/.vscode/
+
+# React Native Packager
+react-native-packager-cache/
+react-native-packager/
+
+# Expo
+.expo/
+.expo-shared/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Environment variable files
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Yarn integrity file
+.yarn-integrity
+
+# NPM package lock file (optional but recommended)
+package-lock.json
+
+# JetBrains project files
+.idea/
+*.iml
